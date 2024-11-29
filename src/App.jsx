@@ -29,14 +29,12 @@ export default function App() {
   };
 
   const Img = styled.img `
-  border: red solid;
   margin-left: 30%;
   height: 80vh;
   `
 
 
   const Button = styled.button`
-  border: green solid;
     width: 18vw;
     height: 8vh;
     color: white;
