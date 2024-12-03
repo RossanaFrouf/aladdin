@@ -1,7 +1,7 @@
-<h1 align="center"> A magia de Aladdin </h1>
+<h1 align="center"> A Magia de Aladdin </h1>
 
 ## 💻 Projeto
-Página feita em react, onde uso o poder o useState para poder fazer uma interação genial com o usuário.
+Página feita em React, onde uso o poder o useState para poder fazer uma interação genial com o usuário.
 
 Veja mais abaixo a página sem a interação:
 
